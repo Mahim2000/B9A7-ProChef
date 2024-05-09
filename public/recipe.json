@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "https://getinspiredeveryday.com/wp-content/uploads/2019/11/Thai-Basil-Chicken-Stir-Fry-Whole30-Get-Inspired-Everyday-4.jpg",
+    "name": "Spicy Basil Chicken Stir-Fry",
+    "description": "A quick and easy stir-fry with tender chicken, fresh basil, and spicy flavors. This dish is perfect for a weeknight dinner, combining the fragrant aroma of basil with the heat of chili peppers. Serve over steamed rice for a satisfying meal.",
+    "ingredients": ["550 g chicken breast, thinly sliced", "120 ml soy sauce", "200 g basil leaves", "1 tbsp vegetable oil"],
+    "time": 25,
+    "calories": 320
+  },
+  {
+    "id": 2,
+    "image": "https://thecozyapron.com/wp-content/uploads/2012/06/stuffed-chicken_05-20-12_4_ca.jpg",
+    "name": "Mushroom and Spinach Stuffed Chicken",
+    "description": "Juicy chicken breasts stuffed with a savory mixture of mushrooms, spinach, and cheese. This elegant dish is perfect for a dinner party or a special occasion. The creamy filling complements the tender chicken, creating a delightful combination of flavors.",
+    "ingredients": ["4 boneless, skinless chicken breasts", "200 g mushrooms, finely chopped", "100 g baby spinach, chopped", "1 tbsp olive oil"],
+    "time": 40,
+    "calories": 380
+  },
+  {
+    "id": 3,
+    "image": "https://bakeitwithlove.com/wp-content/uploads/2021/10/lemon-garlic-shrimp-pasta-h-1.jpg.webp",
+    "name": "Lemon Garlic Shrimp Pasta",
+    "description": "A zesty and refreshing pasta dish featuring succulent shrimp, tangy lemon, and fragrant garlic. This recipe is perfect for seafood lovers, combining the flavors of the ocean with the brightness of citrus. Quick to make and full of flavor, it's a great option for a satisfying meal.",
+    "ingredients": ["300 g spaghetti pasta", "400 g large shrimp, peeled and deveined", "2 lemons, juiced and zested", "1/4 cup olive oil"],
+    "time": 20,
+    "calories": 350
+  },
+  {
+    "id": 4,
+    "image": "https://images.ctfassets.net/qu53tdnhexvd/3sKhUgusHIogY5Kh91XsC4/323e0de6e962e2087efe66b2ea6fdd86/Chickpea_and_Pineapple_Red_Curry_LANDSCAPE_1200x600.jpg.png",
+    "name": "Vegetarian Chickpea Curry",
+    "description": "A comforting and aromatic curry filled with nutritious chickpeas and a blend of Indian spices. This vegetarian dish is hearty and satisfying, perfect for a cozy dinner on a chilly evening. Serve over steamed rice for a complete and wholesome meal.",
+    "ingredients": ["2 cans chickpeas, drained and rinsed", "1 onion, finely chopped", "3 tomatoes, diced", "1 tbsp curry powder"],
+    "time": 35,
+    "calories": 290
+  },
+  {
+    "id": 5,
+    "image": "https://www.orwhateveryoudo.com/wp-content/uploads/2019/05/Caprese-with-Balsamic-Reduction-1.jpg",
+    "name": "Caprese Salad with Balsamic Glaze",
+    "description": "A classic Italian salad featuring ripe tomatoes, fresh basil, and creamy mozzarella cheese drizzled with a sweet balsamic glaze. This salad is a celebration of summer flavors, perfect for a light lunch or appetizer. Simple yet elegant, it's sure to impress.",
+    "ingredients": ["4 ripe tomatoes, sliced", "200 g fresh mozzarella cheese, sliced", "1/2 cup fresh basil leaves", "2 tbsp balsamic glaze"],
+    "time": 15,
+    "calories": 250
+  },
+  {
+    "id": 6,
+    "image": "https://twokooksinthekitchen.com/wp-content/uploads/2023/05/teriyaki-glazed-salmon-26.jpg",
+    "name": "Teriyaki Salmon with Sesame Seeds",
+    "description": "Delicious and healthy teriyaki-glazed salmon fillets sprinkled with sesame seeds. This recipe is a perfect balance of sweet and savory flavors, with tender salmon that flakes easily. Serve with steamed vegetables for a nutritious and satisfying meal.",
+    "ingredients": ["4 salmon fillets", "1/2 cup teriyaki sauce", "2 tbsp sesame seeds", "1 tbsp vegetable oil"],
+    "time": 30,
+    "calories": 280
+  }
+]
